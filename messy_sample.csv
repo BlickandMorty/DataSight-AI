@@ -1,0 +1,8 @@
+name,age,salary,start_date,department,email
+Alice,29,70000,2024-01-05,Sales,alice@example.com
+Bob,,85000,2024-02-30,Sales,bob@example.com
+,31,90000,2023-11-01,IT,charlie@example.com
+Dana,-5,40000,2022-07-15,HR,dana@example.com
+Eve,29,70000,2024-01-05,Sales,alice@example.com
+Frank,200,120000,2020-01-01,IT,frank@example.com
+Grace,27,,2024-03-12,IT,grace@example.com

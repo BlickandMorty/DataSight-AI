@@ -1,0 +1,13 @@
+# .env support
+python-dotenv==1.0.0
+
+# data processing
+pandas==2.1.4
+numpy==1.26.4
+
+# google ai
+google-genai==0.3.0
+
+# dev/testing (optional)
+pytest==7.4.3
+pytest-cov==4.1.0

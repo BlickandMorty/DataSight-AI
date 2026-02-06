@@ -1,0 +1,7 @@
+Transaction_ID,Age,Email,Spend
+101,25,alice@gmail.com,100.0
+102,30,bob_at_gmail.com,250.0
+103,-5,char@hi.com,0.0
+104,200,alice@gmail.com,100.0
+105,35,dan@hi.com,50000.0
+106,28,eve@hi.com,150.0

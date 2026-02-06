@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.git/
+.github/
+.DS_Store
+.claude/
+*.pyc
+*.pyo
+.pytest_cache/
+datasight_error.log
+fixed_*.csv
+.dockerignore
+Makefile
+*.md
+tests.py
+.gitignore

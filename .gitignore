@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+.claude/
+.pytest_cache/
+datasight_error.log
+fixed_*.csv
+dist/
+build/
+*.egg-info/
